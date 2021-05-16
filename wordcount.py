@@ -1,3 +1,7 @@
+
+#wordcount.py
+#takes string input. returns word count
+
 def count(string1):
     wordcount = 0
     for i in range(0, len(string1)):

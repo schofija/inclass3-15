@@ -1,3 +1,7 @@
+
+#palindrome.py
+#takes string input. returns 1 if palindrome, 0 if not
+
 def palindrome(s):
     s2 = s [::-1]
     if len(s) == 0:
